@@ -17,7 +17,7 @@ const Esteban = {
 You can find me 🌎;
  - [Blog]()
  - [Twitter]()
- - [![Instagram]](https://www.instagram.com/sgvanderz/)
+ - [![Instagram]](https://www.instagram.com/sgvanderz/)]
 
 
 <!--

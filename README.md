@@ -13,15 +13,16 @@ const Esteban = {
     }
 };
 ```
+## Next steps:
+- Learn Python
 
-You can find me 🌎;
+
+## You can find me 🌎;
  - [Blog]()
  - [Linkedin](https://www.linkedin.com/in/esteban-geraldo/)
  - [Twitter](https://twitter.com/thvanderz)
  - [![Instagram]()](https://www.instagram.com/sgvanderz/)
 
-Next steps:
-- Learn Python
 
 
 <!--

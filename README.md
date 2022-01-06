@@ -1,4 +1,4 @@
-### Hi! I'm Esteban 👋
+### Hi! I'm Esteban 👋🙋‍♂️
 
 ```js
 const esteban = {
@@ -12,7 +12,10 @@ const esteban = {
 };
 ```
 
-You can find me 
+You can find me 🌎;
+ - [Blog] ()
+ - [Twitter] ()
+ - [Instagram] ()
 
 
 <!--

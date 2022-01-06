@@ -20,6 +20,8 @@ You can find me 🌎;
  - [Twitter](https://twitter.com/thvanderz)
  - [![Instagram]()](https://www.instagram.com/sgvanderz/)
 
+Next steps:
+- Learn Python
 
 
 <!--

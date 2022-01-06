@@ -1,5 +1,6 @@
 ### Hi! I'm Esteban 👋🙋‍♂️
 
+## What I know 💻
 ```js
 const esteban = {
     pronouns: "He" | "Him",

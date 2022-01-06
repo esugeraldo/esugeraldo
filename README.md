@@ -1,5 +1,24 @@
-### Hi! I'm Esteban Geraldo 👋
+### Hi! I'm Esteban 👋
 
+
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+
+code: Java, Javascript, HTML, CSS.
+tools: Springboot, Bootstrap, MYSQL.
+
+
+You can find me 
 
 
 <!--

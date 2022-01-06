@@ -1,22 +1,16 @@
 ### Hi! I'm Esteban 👋
 
-
-const charles = {
+```js
+const esteban = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["full stack", "gamer"],
     technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
+        FrontEnd: Javascript, CSS: ["Bootstrap"], HTML,
+        BackEnd: ["Java: ["SpringBoot"],
+        Databases: ["MySql"],
     }
 };
-
-code: Java, Javascript, HTML, CSS.
-tools: Springboot, Bootstrap, MYSQL.
-
+```
 
 You can find me 
 

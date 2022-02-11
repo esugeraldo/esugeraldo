@@ -9,7 +9,7 @@ const Esteban = {
     technologies: {
         FrontEnd: HTML, Javascript, CSS: ["Bootstrap"],
         BackEnd: Java: ["SpringBoot"],
-        Databases: MySql.
+        Databases: MySql, Postgresql.
     }
 };
 ```

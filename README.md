@@ -1,4 +1,4 @@
-### Hi! I'm Esteban 👋🙋‍♂️
+### Hi! I'm Esteban Geraldo👋🙋‍♂️
 
 ## About me :mortar_board:
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
@@ -21,7 +21,7 @@ const Esteban = {
  - [Blog]()
  - [Linkedin](https://www.linkedin.com/in/esteban-geraldo/)
  - [Twitter](https://twitter.com/thvanderz)
- - [![Instagram]()](https://www.instagram.com/sgvanderz/)
+ - [Instagram](https://www.instagram.com/sgvanderz/)
 
 
 

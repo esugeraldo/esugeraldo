@@ -8,7 +8,7 @@ From very early on in my life, I started to fall in love with technology. This l
 const Esteban = {
     technologies: {
         FrontEnd: HTML, Javascript, CSS: ["Bootstrap"],
-        BackEnd: Java: ["SpringBoot"],
+        BackEnd: Java: ["SpringBoot"] Python,
         Databases: MySql, Postgresql.
     }
 };

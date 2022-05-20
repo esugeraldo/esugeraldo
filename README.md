@@ -20,8 +20,8 @@ const Esteban = {
 ## You can find me 🌎;
  - [Blog](https://geralst-portafolio.netlify.app)
  - [Linkedin](https://www.linkedin.com/in/esteban-geraldo/)
- - [Twitter](https://twitter.com/thvanderz)
- - [Instagram](https://www.instagram.com/sgvanderz/)
+ - [Twitter](https://twitter.com/geralst13)
+ - [Instagram](https://www.instagram.com/geralstz/)
 
 
 

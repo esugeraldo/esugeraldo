@@ -14,7 +14,7 @@ const Esteban = {
 };
 ```
 ## Next steps:
-- Learn Python
+- Learn .Net
 
 
 ## You can find me 🌎;
